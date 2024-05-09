@@ -304,7 +304,7 @@ class _HomepageState extends State<Homepage> {
       },
     );
   }
-
+some new changes
   bool isOperator(String x) {
     if (x == "%" || x == "/" || x == "+" || x == "-" || x == "x" || x == "=") {
       return true;
